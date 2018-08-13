@@ -13,3 +13,7 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
 qqqqqqqq
+www,sss
+simples
+simples
+sofaware
